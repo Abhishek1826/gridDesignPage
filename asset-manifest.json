@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gridDesignPage/static/css/main.188369ca.css",
+    "main.js": "/gridDesignPage/static/js/main.6f0ff0c3.js",
+    "static/js/453.07a87568.chunk.js": "/gridDesignPage/static/js/453.07a87568.chunk.js",
+    "static/media/logo.svg": "/gridDesignPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gridDesignPage/index.html",
+    "main.188369ca.css.map": "/gridDesignPage/static/css/main.188369ca.css.map",
+    "main.6f0ff0c3.js.map": "/gridDesignPage/static/js/main.6f0ff0c3.js.map",
+    "453.07a87568.chunk.js.map": "/gridDesignPage/static/js/453.07a87568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188369ca.css",
+    "static/js/main.6f0ff0c3.js"
+  ]
+}
